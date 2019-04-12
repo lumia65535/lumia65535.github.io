@@ -10,5 +10,5 @@ _yay_
 
 [back](./)
 
-# hi, lumia!
+# hi, [lumia](./lumia.html)!
 
