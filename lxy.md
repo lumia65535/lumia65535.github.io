@@ -1,7 +1,7 @@
-| layout  | title     | description               |
-| ------- | --------- | ------------------------- |
-| default | Love page | This is message from lmy. |
+| layout  |   title   |
+| ------- | --------- |
+| default | Love page |
 
-# 爱你呦，么么哒！
+## 爱你呦，么么哒！
 
 人家又通知我，改成下周三入职了:(
