@@ -8,3 +8,5 @@ description: This is lumia's profile.
 
 ## Hi, lumia!
 
+![./images/lumia.jpg]()
+
